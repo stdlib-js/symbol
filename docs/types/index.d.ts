@@ -21,9 +21,9 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import AsyncIteratorSymbol = require( '@stdlib/symbol/async-iterator' );
-import Symbol = require( '@stdlib/symbol/ctor' );
-import IteratorSymbol = require( '@stdlib/symbol/iterator' );
+import AsyncIteratorSymbol = require( './../../async-iterator' );
+import Symbol = require( './../../ctor' );
+import IteratorSymbol = require( './../../iterator' );
 
 /**
 * Interface describing the `symbol` namespace.
