@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/symbol",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Symbol.",
   "license": "Apache-2.0",
   "author": {
@@ -15,6 +15,7 @@
   ],
   "main": "./lib",
   "directories": {
+    "doc": "./docs",
     "example": "./examples",
     "lib": "./lib",
     "test": "./test"
@@ -35,11 +36,11 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert": "^0.0.x",
-    "@stdlib/utils": "^0.0.x"
+    "@stdlib/assert": "github:stdlib-js/assert#main",
+    "@stdlib/utils": "github:stdlib-js/utils#main"
   },
   "devDependencies": {
-    "@stdlib/bench": "^0.0.x",
+    "@stdlib/bench": "github:stdlib-js/bench",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-spec": "5.x.x"
