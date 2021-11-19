@@ -143,7 +143,7 @@ while ( v === void 0 || ( v.value < 10 && v.done === false ) ) {
 
 ## See Also
 
--   [`@stdlib/symbol/ctor`][@stdlib/symbol/ctor]: https://github.com/stdlib-js/symbol/tree/main/ctor`][@stdlib/symbol/ctor
+-   <span class="package-name">[`@stdlib/symbol/ctor`][@stdlib/symbol/ctor]</span><span class="delimiter">: </span><span class="description">symbols.</span>
 
 </section>
 

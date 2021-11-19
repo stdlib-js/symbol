@@ -103,8 +103,8 @@ if ( AsyncIteratorSymbol === null ) {
 
 ## See Also
 
--   [`@stdlib/symbol/ctor`][@stdlib/symbol/ctor]: https://github.com/stdlib-js/symbol/tree/main/ctor`][@stdlib/symbol/ctor
--   [`@stdlib/symbol/iterator`][@stdlib/symbol/iterator]: https://github.com/stdlib-js/symbol/tree/main/iterator`][@stdlib/symbol/iterator
+-   <span class="package-name">[`@stdlib/symbol/ctor`][@stdlib/symbol/ctor]</span><span class="delimiter">: </span><span class="description">symbols.</span>
+-   <span class="package-name">[`@stdlib/symbol/iterator`][@stdlib/symbol/iterator]</span><span class="delimiter">: </span><span class="description">symbol iterator.</span>
 
 </section>
 
