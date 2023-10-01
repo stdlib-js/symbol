@@ -1,4 +1,4 @@
-/*
+/**
 * @license Apache-2.0
 *
 * Copyright (c) 2021 The Stdlib Authors.
@@ -16,16 +16,25 @@
 * limitations under the License.
 */
 
-// TypeScript Version: 4.1
+'use strict';
 
-// EXPORTS //
+// MODULES //
 
-/**
-* Iterator symbol.
-*
-* ## Notes
-*
-* -   This symbol specifies the default iterator for an object.
-* -   The symbol is only supported in ES6/ES2015+ environments. For non-supporting environments, the value is `null`.
-*/
-export = Symbol.iterator;
+var tape = require( 'tape' );
+var objectKeys = require( '@stdlib/utils/keys' );
+var ns = require( './../../dist' );
+
+
+// TESTS //
+
+tape( 'main export is an object', function test( t ) {
+	t.ok( true, __filename );
+	t.strictEqual( typeof ns, 'object', 'main export is an object' );
+	t.end();
+});
+
+tape( 'the exported object contains key-value pairs', function test( t ) {
+	var keys = objectKeys( ns );
+	t.equal( keys.length > 0, true, 'has keys' );
+	t.end();
+});
