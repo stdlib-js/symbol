@@ -18,8 +18,7 @@
 
 // TypeScript Version: 4.1
 
-/* tslint:disable:max-line-length */
-/* tslint:disable:max-file-line-count */
+/* eslint-disable max-lines */
 
 import AsyncIteratorSymbol = require( './../../async-iterator' );
 import Symbol = require( './../../ctor' );
