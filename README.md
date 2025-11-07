@@ -80,6 +80,7 @@ The namespace contains the following:
 
 -   <span class="signature">[`AsyncIteratorSymbol`][@stdlib/symbol/async-iterator]</span><span class="delimiter">: </span><span class="description">async iterator symbol which specifies the default async iterator for an object.</span>
 -   <span class="signature">[`Symbol( [description] )`][@stdlib/symbol/ctor]</span><span class="delimiter">: </span><span class="description">symbol factory.</span>
+-   <span class="signature">[`IsConcatSpreadableSymbol`][@stdlib/symbol/is-concat-spreadable]</span><span class="delimiter">: </span><span class="description">concat spreadable symbol which specifies whether an array-like object should be flattened to its array elements during concatenation.</span>
 -   <span class="signature">[`IteratorSymbol`][@stdlib/symbol/iterator]</span><span class="delimiter">: </span><span class="description">iterator symbol which specifies the default iterator for an object.</span>
 
 </div>
@@ -194,6 +195,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [@stdlib/symbol/async-iterator]: https://github.com/stdlib-js/symbol/tree/main/async-iterator
 
 [@stdlib/symbol/ctor]: https://github.com/stdlib-js/symbol/tree/main/ctor
+
+[@stdlib/symbol/is-concat-spreadable]: https://github.com/stdlib-js/symbol/tree/main/is-concat-spreadable
 
 [@stdlib/symbol/iterator]: https://github.com/stdlib-js/symbol/tree/main/iterator
 

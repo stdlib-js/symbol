@@ -23,6 +23,7 @@
 
 <details>
 
+-   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
 -   [`fbaaa9d`](https://github.com/stdlib-js/stdlib/commit/fbaaa9df69a72c8fd3bd777e08c750eea7787c85) - **feat:** add `IsConcatSpreadableSymbol` to namespace _(by Athan Reines)_
 -   [`1f2af74`](https://github.com/stdlib-js/stdlib/commit/1f2af7405367c948f2f3e93044a26935096cbd58) - **feat:** add `symbol/is-concat-spreadable` _(by Athan Reines)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
