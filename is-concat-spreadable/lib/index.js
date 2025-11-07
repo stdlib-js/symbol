@@ -1,7 +1,7 @@
 /**
 * @license Apache-2.0
 *
-* Copyright (c) 2021 The Stdlib Authors.
+* Copyright (c) 2025 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -18,23 +18,29 @@
 
 'use strict';
 
-// MODULES //
+/**
+* Concat spreadable symbol.
+*
+* @module @stdlib/symbol/is-concat-spreadable
+*
+* @example
+* var IsConcatSpreadableSymbol = require( '@stdlib/symbol/is-concat-spreadable' );
+*
+* var x = {
+*     'length': 3,
+*     '0': 1,
+*     '1': 2,
+*     '2': 3
+* };
+*
+* x[ IsConcatSpreadableSymbol ] = true;
+*/
 
-var tape = require( 'tape' );
-var objectKeys = require( '@stdlib/utils/keys' );
-var ns = require( './../lib' );
+// MAIN //
+
+var main = require( './main.js' );
 
 
-// TESTS //
+// EXPORTS //
 
-tape( 'main export is an object', function test( t ) {
-	t.ok( true, __filename );
-	t.strictEqual( typeof ns, 'object', 'main export is an object' );
-	t.end();
-});
-
-tape( 'the exported object contains key-value pairs', function test( t ) {
-	var keys = objectKeys( ns );
-	t.strictEqual( keys.length > 0, true, 'has keys' );
-	t.end();
-});
+module.exports = main;

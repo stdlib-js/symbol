@@ -4,9 +4,48 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
+## Unreleased (2025-11-07)
 
-No changes reported for this release.
+<section class="features">
+
+### Features
+
+-   [`fbaaa9d`](https://github.com/stdlib-js/stdlib/commit/fbaaa9df69a72c8fd3bd777e08c750eea7787c85) - add `IsConcatSpreadableSymbol` to namespace
+-   [`1f2af74`](https://github.com/stdlib-js/stdlib/commit/1f2af7405367c948f2f3e93044a26935096cbd58) - add `symbol/is-concat-spreadable`
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`fbaaa9d`](https://github.com/stdlib-js/stdlib/commit/fbaaa9df69a72c8fd3bd777e08c750eea7787c85) - **feat:** add `IsConcatSpreadableSymbol` to namespace _(by Athan Reines)_
+-   [`1f2af74`](https://github.com/stdlib-js/stdlib/commit/1f2af7405367c948f2f3e93044a26935096cbd58) - **feat:** add `symbol/is-concat-spreadable` _(by Athan Reines)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`f344466`](https://github.com/stdlib-js/stdlib/commit/f344466c6dcfb8f52d7f3148acaadd52772938da) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -66,26 +105,6 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-05)
 
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
@@ -100,6 +119,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -119,141 +150,15 @@ No changes reported for this release.
 
 ## 0.1.0 (2023-11-08)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="symbol-v0.1.0">
-
-#### [@stdlib/symbol](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/symbol)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`3573d92`](https://github.com/stdlib-js/stdlib/commit/3573d92955f1150eae58fb534808b7a30532a1c1) - update minimum TypeScript version
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3573d92`](https://github.com/stdlib-js/stdlib/commit/3573d92955f1150eae58fb534808b7a30532a1c1): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="symbol-async-iterator-v0.1.0">
-
-#### [@stdlib/symbol/async-iterator](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/symbol/async-iterator)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`3573d92`](https://github.com/stdlib-js/stdlib/commit/3573d92955f1150eae58fb534808b7a30532a1c1) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3573d92`](https://github.com/stdlib-js/stdlib/commit/3573d92955f1150eae58fb534808b7a30532a1c1): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="symbol-ctor-v0.1.0">
-
-#### [@stdlib/symbol/ctor](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/symbol/ctor)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`3573d92`](https://github.com/stdlib-js/stdlib/commit/3573d92955f1150eae58fb534808b7a30532a1c1) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3573d92`](https://github.com/stdlib-js/stdlib/commit/3573d92955f1150eae58fb534808b7a30532a1c1): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="symbol-iterator-v0.1.0">
-
-#### [@stdlib/symbol/iterator](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/symbol/iterator)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`3573d92`](https://github.com/stdlib-js/stdlib/commit/3573d92955f1150eae58fb534808b7a30532a1c1) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3573d92`](https://github.com/stdlib-js/stdlib/commit/3573d92955f1150eae58fb534808b7a30532a1c1): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -264,19 +169,6 @@ No changes reported for this release.
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 2 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -294,6 +186,19 @@ A total of 2 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 

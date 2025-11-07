@@ -1,7 +1,7 @@
-/**
+/*
 * @license Apache-2.0
 *
-* Copyright (c) 2021 The Stdlib Authors.
+* Copyright (c) 2025 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -16,25 +16,16 @@
 * limitations under the License.
 */
 
-'use strict';
+// TypeScript Version: 4.1
 
-// MODULES //
+// EXPORTS //
 
-var tape = require( 'tape' );
-var objectKeys = require( '@stdlib/utils/keys' );
-var ns = require( './../lib' );
-
-
-// TESTS //
-
-tape( 'main export is an object', function test( t ) {
-	t.ok( true, __filename );
-	t.strictEqual( typeof ns, 'object', 'main export is an object' );
-	t.end();
-});
-
-tape( 'the exported object contains key-value pairs', function test( t ) {
-	var keys = objectKeys( ns );
-	t.strictEqual( keys.length > 0, true, 'has keys' );
-	t.end();
-});
+/**
+* Concat spreadable symbol.
+*
+* ## Notes
+*
+* -   This symbol specifies whether an array-like object should be flattened to its array elements during concatenation.
+* -   The symbol is only supported in ES6/ES2015+ environments. For non-supporting environments, the value is `null`.
+*/
+export = Symbol.isConcatSpreadable;
