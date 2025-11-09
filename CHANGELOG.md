@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-07)
+## Unreleased (2025-11-09)
 
 <section class="features">
 
 ### Features
 
+-   [`1040808`](https://github.com/stdlib-js/stdlib/commit/1040808d2053bc31114129921ff24b544bc4acbd) - add `HasInstanceSymbol` to namespace
+-   [`157d4b6`](https://github.com/stdlib-js/stdlib/commit/157d4b6dc56ebbca70ed036adb8fb0ff73d49ff2) - add `symbol/has-instance`
 -   [`fbaaa9d`](https://github.com/stdlib-js/stdlib/commit/fbaaa9df69a72c8fd3bd777e08c750eea7787c85) - add `IsConcatSpreadableSymbol` to namespace
 -   [`1f2af74`](https://github.com/stdlib-js/stdlib/commit/1f2af7405367c948f2f3e93044a26935096cbd58) - add `symbol/is-concat-spreadable`
 
@@ -23,6 +25,12 @@
 
 <details>
 
+-   [`1040808`](https://github.com/stdlib-js/stdlib/commit/1040808d2053bc31114129921ff24b544bc4acbd) - **feat:** add `HasInstanceSymbol` to namespace _(by Athan Reines)_
+-   [`6d3a102`](https://github.com/stdlib-js/stdlib/commit/6d3a10244f2e8a3895f68f1181fb67d73ce3fe10) - **docs:** update heading _(by Athan Reines)_
+-   [`9e3932d`](https://github.com/stdlib-js/stdlib/commit/9e3932d03ef1b98cc4770e3850a76a73af044e17) - **docs:** update heading and examples _(by Athan Reines)_
+-   [`1050565`](https://github.com/stdlib-js/stdlib/commit/105056505792e05477a223bb01550fc228693936) - **docs:** update heading _(by Athan Reines)_
+-   [`157d4b6`](https://github.com/stdlib-js/stdlib/commit/157d4b6dc56ebbca70ed036adb8fb0ff73d49ff2) - **feat:** add `symbol/has-instance` _(by Athan Reines)_
+-   [`01b35f9`](https://github.com/stdlib-js/stdlib/commit/01b35f90c1e83fab83bd26a1652ec7ef91e97255) - **test:** fix require path _(by Athan Reines)_
 -   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
 -   [`fbaaa9d`](https://github.com/stdlib-js/stdlib/commit/fbaaa9df69a72c8fd3bd777e08c750eea7787c85) - **feat:** add `IsConcatSpreadableSymbol` to namespace _(by Athan Reines)_
 -   [`1f2af74`](https://github.com/stdlib-js/stdlib/commit/1f2af7405367c948f2f3e93044a26935096cbd58) - **feat:** add `symbol/is-concat-spreadable` _(by Athan Reines)_
