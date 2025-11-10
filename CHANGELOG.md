@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-09)
+## Unreleased (2025-11-10)
 
 <section class="features">
 
@@ -25,6 +25,7 @@
 
 <details>
 
+-   [`fd7e728`](https://github.com/stdlib-js/stdlib/commit/fd7e72861fd32cc8653d4f252c6b0c1a6f4b2b72) - **docs:** update namespace table of contents [(#8487)](https://github.com/stdlib-js/stdlib/pull/8487) _(by stdlib-bot)_
 -   [`1040808`](https://github.com/stdlib-js/stdlib/commit/1040808d2053bc31114129921ff24b544bc4acbd) - **feat:** add `HasInstanceSymbol` to namespace _(by Athan Reines)_
 -   [`6d3a102`](https://github.com/stdlib-js/stdlib/commit/6d3a10244f2e8a3895f68f1181fb67d73ce3fe10) - **docs:** update heading _(by Athan Reines)_
 -   [`9e3932d`](https://github.com/stdlib-js/stdlib/commit/9e3932d03ef1b98cc4770e3850a76a73af044e17) - **docs:** update heading and examples _(by Athan Reines)_
