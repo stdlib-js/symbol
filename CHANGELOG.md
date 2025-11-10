@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`2393750`](https://github.com/stdlib-js/stdlib/commit/2393750cf278366ef80eb904edd20247f2f81b3d) - add `symbol/to-primitive` [(#8494)](https://github.com/stdlib-js/stdlib/pull/8494)
 -   [`1040808`](https://github.com/stdlib-js/stdlib/commit/1040808d2053bc31114129921ff24b544bc4acbd) - add `HasInstanceSymbol` to namespace
 -   [`157d4b6`](https://github.com/stdlib-js/stdlib/commit/157d4b6dc56ebbca70ed036adb8fb0ff73d49ff2) - add `symbol/has-instance`
 -   [`fbaaa9d`](https://github.com/stdlib-js/stdlib/commit/fbaaa9df69a72c8fd3bd777e08c750eea7787c85) - add `IsConcatSpreadableSymbol` to namespace
@@ -19,12 +20,25 @@
 
 <!-- /.features -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#8481](https://github.com/stdlib-js/stdlib/issues/8481)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`2393750`](https://github.com/stdlib-js/stdlib/commit/2393750cf278366ef80eb904edd20247f2f81b3d) - **feat:** add `symbol/to-primitive` [(#8494)](https://github.com/stdlib-js/stdlib/pull/8494) _(by Sachin Pangal, Athan Reines)_
 -   [`fd7e728`](https://github.com/stdlib-js/stdlib/commit/fd7e72861fd32cc8653d4f252c6b0c1a6f4b2b72) - **docs:** update namespace table of contents [(#8487)](https://github.com/stdlib-js/stdlib/pull/8487) _(by stdlib-bot)_
 -   [`1040808`](https://github.com/stdlib-js/stdlib/commit/1040808d2053bc31114129921ff24b544bc4acbd) - **feat:** add `HasInstanceSymbol` to namespace _(by Athan Reines)_
 -   [`6d3a102`](https://github.com/stdlib-js/stdlib/commit/6d3a10244f2e8a3895f68f1181fb67d73ce3fe10) - **docs:** update heading _(by Athan Reines)_
@@ -48,10 +62,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
+-   Sachin Pangal
 
 </section>
 
