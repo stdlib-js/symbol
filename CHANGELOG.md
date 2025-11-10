@@ -38,6 +38,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`7849e6f`](https://github.com/stdlib-js/stdlib/commit/7849e6ffba5b1734a5314c5ded28602dd75e0f3c) - **style:** remove semicolons after function declarations _(by Philipp Burckhardt)_
 -   [`2393750`](https://github.com/stdlib-js/stdlib/commit/2393750cf278366ef80eb904edd20247f2f81b3d) - **feat:** add `symbol/to-primitive` [(#8494)](https://github.com/stdlib-js/stdlib/pull/8494) _(by Sachin Pangal, Athan Reines)_
 -   [`fd7e728`](https://github.com/stdlib-js/stdlib/commit/fd7e72861fd32cc8653d4f252c6b0c1a6f4b2b72) - **docs:** update namespace table of contents [(#8487)](https://github.com/stdlib-js/stdlib/pull/8487) _(by stdlib-bot)_
 -   [`1040808`](https://github.com/stdlib-js/stdlib/commit/1040808d2053bc31114129921ff24b544bc4acbd) - **feat:** add `HasInstanceSymbol` to namespace _(by Athan Reines)_
