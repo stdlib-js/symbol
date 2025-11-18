@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-10)
+## Unreleased (2025-11-18)
 
 <section class="features">
 
 ### Features
 
+-   [`a68d5d9`](https://github.com/stdlib-js/stdlib/commit/a68d5d90ca37bd5ab261d02c9333585310945641) - add `symbol/replace`
 -   [`2393750`](https://github.com/stdlib-js/stdlib/commit/2393750cf278366ef80eb904edd20247f2f81b3d) - add `symbol/to-primitive` [(#8494)](https://github.com/stdlib-js/stdlib/pull/8494)
 -   [`1040808`](https://github.com/stdlib-js/stdlib/commit/1040808d2053bc31114129921ff24b544bc4acbd) - add `HasInstanceSymbol` to namespace
 -   [`157d4b6`](https://github.com/stdlib-js/stdlib/commit/157d4b6dc56ebbca70ed036adb8fb0ff73d49ff2) - add `symbol/has-instance`
@@ -38,6 +39,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a68d5d9`](https://github.com/stdlib-js/stdlib/commit/a68d5d90ca37bd5ab261d02c9333585310945641) - **feat:** add `symbol/replace` _(by Athan Reines)_
 -   [`7849e6f`](https://github.com/stdlib-js/stdlib/commit/7849e6ffba5b1734a5314c5ded28602dd75e0f3c) - **style:** remove semicolons after function declarations _(by Philipp Burckhardt)_
 -   [`2393750`](https://github.com/stdlib-js/stdlib/commit/2393750cf278366ef80eb904edd20247f2f81b3d) - **feat:** add `symbol/to-primitive` [(#8494)](https://github.com/stdlib-js/stdlib/pull/8494) _(by Sachin Pangal, Athan Reines)_
 -   [`fd7e728`](https://github.com/stdlib-js/stdlib/commit/fd7e72861fd32cc8653d4f252c6b0c1a6f4b2b72) - **docs:** update namespace table of contents [(#8487)](https://github.com/stdlib-js/stdlib/pull/8487) _(by stdlib-bot)_
