@@ -10,6 +10,8 @@
 
 ### Features
 
+-   [`905feb6`](https://github.com/stdlib-js/stdlib/commit/905feb60d656c1458e415fe70c704b501e3c77ca) - add `ToPrimitiveSymbol` to namespace
+-   [`f965609`](https://github.com/stdlib-js/stdlib/commit/f965609a8ec99e76de70cb055bea278028f15606) - add `ReplaceSymbol` to namespace
 -   [`a68d5d9`](https://github.com/stdlib-js/stdlib/commit/a68d5d90ca37bd5ab261d02c9333585310945641) - add `symbol/replace`
 -   [`2393750`](https://github.com/stdlib-js/stdlib/commit/2393750cf278366ef80eb904edd20247f2f81b3d) - add `symbol/to-primitive` [(#8494)](https://github.com/stdlib-js/stdlib/pull/8494)
 -   [`1040808`](https://github.com/stdlib-js/stdlib/commit/1040808d2053bc31114129921ff24b544bc4acbd) - add `HasInstanceSymbol` to namespace
@@ -39,6 +41,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`905feb6`](https://github.com/stdlib-js/stdlib/commit/905feb60d656c1458e415fe70c704b501e3c77ca) - **feat:** add `ToPrimitiveSymbol` to namespace _(by Athan Reines)_
+-   [`f965609`](https://github.com/stdlib-js/stdlib/commit/f965609a8ec99e76de70cb055bea278028f15606) - **feat:** add `ReplaceSymbol` to namespace _(by Athan Reines)_
 -   [`a68d5d9`](https://github.com/stdlib-js/stdlib/commit/a68d5d90ca37bd5ab261d02c9333585310945641) - **feat:** add `symbol/replace` _(by Athan Reines)_
 -   [`7849e6f`](https://github.com/stdlib-js/stdlib/commit/7849e6ffba5b1734a5314c5ded28602dd75e0f3c) - **style:** remove semicolons after function declarations _(by Philipp Burckhardt)_
 -   [`2393750`](https://github.com/stdlib-js/stdlib/commit/2393750cf278366ef80eb904edd20247f2f81b3d) - **feat:** add `symbol/to-primitive` [(#8494)](https://github.com/stdlib-js/stdlib/pull/8494) _(by Sachin Pangal, Athan Reines)_
