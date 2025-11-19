@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-18)
+## Unreleased (2025-11-19)
 
 <section class="features">
 
@@ -41,6 +41,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`980ada1`](https://github.com/stdlib-js/stdlib/commit/980ada1b83bedbc2075cc93026a98f1ae4998951) - **docs:** update namespace table of contents [(#8554)](https://github.com/stdlib-js/stdlib/pull/8554) _(by stdlib-bot)_
 -   [`905feb6`](https://github.com/stdlib-js/stdlib/commit/905feb60d656c1458e415fe70c704b501e3c77ca) - **feat:** add `ToPrimitiveSymbol` to namespace _(by Athan Reines)_
 -   [`f965609`](https://github.com/stdlib-js/stdlib/commit/f965609a8ec99e76de70cb055bea278028f15606) - **feat:** add `ReplaceSymbol` to namespace _(by Athan Reines)_
 -   [`a68d5d9`](https://github.com/stdlib-js/stdlib/commit/a68d5d90ca37bd5ab261d02c9333585310945641) - **feat:** add `symbol/replace` _(by Athan Reines)_
