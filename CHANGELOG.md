@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-29)
+## Unreleased (2026-05-04)
 
 <section class="features">
 
@@ -42,6 +42,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`c7e4f4e`](https://github.com/stdlib-js/stdlib/commit/c7e4f4e3757f6f0082297f31dd0094ef02f58df8) - **chore:** resolve n/no-unsupported-features lint error in `symbol/async-iterator` [(#11927)](https://github.com/stdlib-js/stdlib/pull/11927) _(by Philipp Burckhardt)_
 -   [`53fb242`](https://github.com/stdlib-js/stdlib/commit/53fb24251d7be54ea7424b60a991f5eaf96fe32a) - **bench:** refactor to use string interpolation in `symbol/ctor` [(#10555)](https://github.com/stdlib-js/stdlib/pull/10555) _(by Vishal Gaikwad)_
 -   [`05b6fa0`](https://github.com/stdlib-js/stdlib/commit/05b6fa02563998940e9ba447d14d525f0807ba71) - **feat:** update `symbol` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`980ada1`](https://github.com/stdlib-js/stdlib/commit/980ada1b83bedbc2075cc93026a98f1ae4998951) - **docs:** update namespace table of contents [(#8554)](https://github.com/stdlib-js/stdlib/pull/8554) _(by stdlib-bot)_
