@@ -23,6 +23,7 @@
 var tape = require( 'tape' );
 var hasToPrimitiveSymbolSupport = require( '@stdlib/assert/has-to-primitive-symbol-support' );
 var isSymbol = require( '@stdlib/assert/is-symbol' );
+var Symbol = require( './../../ctor' );
 var Sym = require( './../lib' );
 
 
